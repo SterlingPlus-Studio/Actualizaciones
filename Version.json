@@ -1,7 +1,7 @@
 {
   "version_name": "1.29",
   "version_code": 1,
-  "apk_url": "https://raw.githubusercontent.com/SkyComixStudioApp/Clyra/main/Apk/Clyra.apk",
+  "apk_url": "https://raw.githubusercontent.com/SterlingPlus-Studio/Actualizaciones/main/Apk/Clyra.apk",
   "force_update": true,
   "package_name": "com.sky.clyra"
 }
